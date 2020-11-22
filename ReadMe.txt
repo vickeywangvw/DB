@@ -1,7 +1,6 @@
 ##a miniature relational database:
 
-Team Member:
-XiaoXuan Wang(xw2098)    Xingyu Liu(xl2332)
+  
 
 
 How to Run the Program:
